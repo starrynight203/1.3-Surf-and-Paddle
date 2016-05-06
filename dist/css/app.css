@@ -5932,4 +5932,46 @@ header h4 {
   font-size: 15px;
   letter-spacing: -1px; }
 
+.heading-lines {
+  margin-top: 65px; }
+
+.heading-top-line,
+.heading-bottom-line {
+  font-family: 'Oswald', sans-serif;
+  font-size: 61px;
+  color: #073454;
+  line-height: 66px;
+  margin-left: 20px;
+  margin-top: 13px;
+  margin-bottom: 6px;
+  text-transform: uppercase; }
+
+.heading-bottom-line {
+  letter-spacing: 1px;
+  margin-top: -1px; }
+
+.left-avatar-pic {
+  background: url("../images/nickcage.jpg");
+  background-size: cover;
+  display: inline-block;
+  height: 22px;
+  width: 22px;
+  border-radius: 50%;
+  margin-left: 20px; }
+
+.author-name {
+  color: #106eb3;
+  margin-left: 6px;
+  display: inline-block; }
+
+.on {
+  margin-left: 3px;
+  color: #c5cfd6;
+  display: inline-block; }
+
+.author-line a {
+  color: #c5cfd6;
+  display: inline-block;
+  text-decoration: underline; }
+
 /*# sourceMappingURL=app.css.map */
