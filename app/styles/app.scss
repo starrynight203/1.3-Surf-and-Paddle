@@ -156,22 +156,9 @@ header h4 {
 
 /// Body styling /// *left side
 // .left-side {
-//   h1 {
-//     font-family: 'Oswald', sans-serif;
-//     font-size: 64px;
-//     color: #212F3D;
-//     font-weight: normal;
-//   }
+//   margin-left:20px;
 // }
-//
-// .heading-top-line {
-//     margin-top: 70px;
-//     margin-bottom: 14px;
-// }
-//
-// .heading-bottom-line {
-//   margin-top: 0;
-// }
+
 .heading-lines {
   margin-top:65px;
 }
@@ -216,6 +203,7 @@ header h4 {
 }
 
 .author-line {
+  margin-bottom: 31px;
   a {
     color: #c5cfd6;
     display: inline-block;
@@ -223,3 +211,60 @@ header h4 {
     // margin-left: 2px;
   }
 }
+
+.left-side {
+  p {
+    margin-left: 18px;
+    color: gray;
+    font-size: 15px;
+  }
+}
+
+.paragraph-1 {
+  letter-spacing: .3px;
+  line-height: 26px;
+  margin-bottom: 28px;
+}
+
+.paragraph-2 {
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  a {
+    color: #c5cfd6;
+    display: inline-block;
+    text-decoration:underline;
+  }
+}
+
+.left-side {
+  h2 {
+    height: 56px;
+    font-size: 28px;
+    color: #196fb3;
+    text-transform: uppercase;
+    border-left: 2px solid #c5cfd6;
+    margin-left: 24px;
+    letter-spacing: -.6px;
+    padding-top: 15px;
+    padding-left: 16px;
+  }
+}
+
+.paragraph-3 {
+  margin-top: 27px;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+}
+
+.paragraph-4 {
+  margin-top: 25px;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+
+}
+
+
+
+// .paragraph-1 {
+//   margin-left: 20px;
+// }

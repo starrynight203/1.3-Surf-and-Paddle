@@ -5969,9 +5969,50 @@ header h4 {
   color: #c5cfd6;
   display: inline-block; }
 
-.author-line a {
-  color: #c5cfd6;
-  display: inline-block;
-  text-decoration: underline; }
+.author-line {
+  margin-bottom: 31px; }
+  .author-line a {
+    color: #c5cfd6;
+    display: inline-block;
+    text-decoration: underline; }
+
+.left-side p {
+  margin-left: 18px;
+  color: gray;
+  font-size: 15px; }
+
+.paragraph-1 {
+  letter-spacing: .3px;
+  line-height: 26px;
+  margin-bottom: 28px; }
+
+.paragraph-2 {
+  letter-spacing: 0.2px;
+  line-height: 26px; }
+  .paragraph-2 a {
+    color: #c5cfd6;
+    display: inline-block;
+    text-decoration: underline; }
+
+.left-side h2 {
+  height: 56px;
+  font-size: 28px;
+  color: #196fb3;
+  text-transform: uppercase;
+  border-left: 2px solid #c5cfd6;
+  margin-left: 24px;
+  letter-spacing: -.6px;
+  padding-top: 15px;
+  padding-left: 16px; }
+
+.paragraph-3 {
+  margin-top: 27px;
+  letter-spacing: 0.2px;
+  line-height: 26px; }
+
+.paragraph-4 {
+  margin-top: 25px;
+  letter-spacing: 0.3px;
+  line-height: 26px; }
 
 /*# sourceMappingURL=app.css.map */
