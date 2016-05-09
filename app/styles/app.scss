@@ -282,6 +282,7 @@ header h4 {
   border: 1px solid rgba(197, 207, 214, 1);
   background-color: rgba(197, 207, 214, 1);
   font-family: 'Open Sans';
+  margin-top: 9px;
   i {
     border: 4px solid #5e686e;
     background-color: #5e686e;
@@ -299,10 +300,41 @@ header h4 {
   margin-left: 6px;
   height: 30px;
   width: 128px;
+  color: white;
+  border: 1px solid rgba(197, 207, 214, 1);
+  background-color: rgba(197, 207, 214, 1);
+  font-family: 'Open Sans';
+  i {
+    border: 4px solid #5e686e;
+    background-color: #5e686e;
+    color: white;
+    padding-left: 6px;
+    padding-right: 4px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    margin-top: -3px;
+    margin-left: -12px;
+    margin-right: 8px;
+  }
 }
 
 .share-this-post {
   margin-left: 7px;
   height: 30px;
   width: 154px;
+  color: white;
+  border: 2px solid rgba(16, 110, 179, 1);
+  background-color:rgba(16, 110, 179, 1);
+  font-family: 'Open Sans';
+  i {
+    border: 4px solid #073454;
+    background-color: #073454;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-top: -4px;
+    margin-bottom: -9px;
+    margin-left: -17px;
+  }
 }
