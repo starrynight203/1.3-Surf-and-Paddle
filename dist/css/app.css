@@ -6082,4 +6082,72 @@ header h4 {
     margin-bottom: -9px;
     margin-left: -17px; }
 
+.right-avatar-pic {
+  background: url("../images/nickcage.jpg");
+  background-size: cover;
+  height: 84px;
+  width: 84px;
+  border-radius: 50%;
+  margin-top: 83px;
+  margin-left: 135px; }
+
+.left-side-author-name {
+  color: #196fb3;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  margin-left: 43px;
+  margin-top: 11px;
+  margin-bottom: 1px;
+  text-align: center; }
+
+.social-links {
+  display: inline-block;
+  margin-left: 111px; }
+  .social-links a {
+    display: inline-block;
+    font-family: 'Open Sans';
+    color: #c5cfd6;
+    font-size: 13px;
+    position: relative;
+    left: -32px;
+    letter-spacing: -.2px; }
+
+.social-links .twitter {
+  margin-right: 19px; }
+
+.social-links .facebook {
+  margin-right: 19px; }
+
+.right-side-photo {
+  background: url("../images/nickcage.jpg");
+  background-size: cover;
+  width: 278px;
+  height: 300px;
+  margin-left: 36px;
+  margin-top: 50px;
+  margin-right: 10px; }
+
+.right-side-about {
+  margin-top: 6px; }
+  .right-side-about a {
+    text-decoration: none;
+    color: #c5cfd6;
+    text-decoration: underline;
+    font-size: 13px;
+    margin-left: 225px; }
+
+.right-side h4 {
+  color: #196fb3;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  margin-top: 48px;
+  margin-left: 36px; }
+
+.right-side p {
+  color: #c5cfd6;
+  margin-left: 36px;
+  line-height: 24.2px;
+  letter-spacing: -.4px; }
+
 /*# sourceMappingURL=app.css.map */
