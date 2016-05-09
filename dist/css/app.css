@@ -6150,4 +6150,17 @@ header h4 {
   line-height: 24.2px;
   letter-spacing: -.4px; }
 
+.footer {
+  margin-top: 67px;
+  border-top: 1px solid #c5cfd6; }
+  .footer h1 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    font-size: 61px;
+    color: #073454;
+    margin-top: 35px;
+    letter-spacing: 1.1px;
+    margin-left: 21px; }
+
 /*# sourceMappingURL=app.css.map */
