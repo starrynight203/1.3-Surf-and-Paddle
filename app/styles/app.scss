@@ -439,6 +439,9 @@ header h4 {
     margin-left: 36px;
     line-height: 24.2px;
     letter-spacing: -.4px;
+    span {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -490,7 +493,7 @@ header h4 {
 }
 
 .pic-4 {
-  background: url('../images/surf3.jpg');
+  background: url('../images/surf1.jpg');
   background-size: cover;
   // width: 324px;
   height: 330px;
@@ -498,7 +501,57 @@ header h4 {
   position: relative;
 }
 
+.footer-title-1,
+.footer-title-2,
+.footer-title-3,
+.footer-title-3-secondline,
+.footer-title-4 {
+  font-size: 29px;
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+
+}
+
+.footer-title-1 {
+  letter-spacing: 0.2px;
+  margin-top: 280px;
+}
+
+.footer-title-2 {
+  margin-top: 280px;
+  letter-spacing: 0.2px;
+  margin-left: 6px;
+}
+
+.footer-title-3 {
+  margin-top: 240px;
+  margin-left: 13px;
+  letter-spacing: .5px;
+}
+
+.footer-title-3-secondline {
+  margin-left: 13px;
+  letter-spacing: .3px;
+  margin-top: -4px;
+}
+
+.footer-title-4 {
+  margin-top: 279px;
+  margin-left: 20px;
+  letter-spacing: .2px;
+}
+
 .bottom-footer {
   background-color: rgba(7, 51, 83, 1);
   height: 100px;
+  img {
+    margin-left: 136px;
+    margin-top: 14px;
+  }
+}
+
+.bottom-footer {
+  h4 {
+    color: white;
+  }
 }
