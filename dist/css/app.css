@@ -6120,7 +6120,7 @@ header h4 {
   margin-right: 19px; }
 
 .right-side-photo {
-  background: url("../images/nickcage.jpg");
+  background: url("../images/billmurray.jpg");
   background-size: cover;
   width: 278px;
   height: 300px;
@@ -6162,5 +6162,40 @@ header h4 {
     margin-top: 35px;
     letter-spacing: 1.1px;
     margin-left: 21px; }
+
+.footer-pics {
+  margin-top: 34px; }
+
+.pic-1 {
+  background: url("../images/surf1.jpg");
+  background-size: cover;
+  height: 330px;
+  display: inline-block;
+  position: relative; }
+
+.pic-2 {
+  background: url("../images/surf2.jpg");
+  background-size: cover;
+  height: 330px;
+  display: inline-block;
+  position: relative; }
+
+.pic-3 {
+  background: url("../images/surf3.jpg");
+  background-size: cover;
+  height: 330px;
+  display: inline-block;
+  position: relative; }
+
+.pic-4 {
+  background: url("../images/surf3.jpg");
+  background-size: cover;
+  height: 330px;
+  display: inline-block;
+  position: relative; }
+
+.bottom-footer {
+  background-color: #073353;
+  height: 100px; }
 
 /*# sourceMappingURL=app.css.map */
