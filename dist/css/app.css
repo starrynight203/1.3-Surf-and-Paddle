@@ -6233,10 +6233,40 @@ header h4 {
   background-color: #073353;
   height: 100px; }
   .bottom-footer img {
-    margin-left: 136px;
-    margin-top: 14px; }
+    margin-left: 150px;
+    margin-top: -6px; }
 
-.bottom-footer h4 {
+.bottom-footer p {
   color: white; }
+
+.tiy-copyright {
+  display: inline-block;
+  margin-top: 38px;
+  margin-left: 1px;
+  letter-spacing: -.3px; }
+
+.footer-nav-list {
+  display: inline-block;
+  float: right;
+  margin-right: 131px;
+  margin-top: 39px;
+  letter-spacing: -.1px; }
+
+.nav1,
+.nav2,
+.nav3 {
+  display: inline-block;
+  color: #a3b2bf;
+  border-right: 1px solid #5e686e;
+  padding-right: 7px;
+  padding-left: 4px;
+  line-height: 15px; }
+
+.nav4 {
+  display: inline-block;
+  color: #a3b2bf;
+  padding-right: 7px;
+  padding-left: 4px;
+  line-height: 15px; }
 
 /*# sourceMappingURL=app.css.map */
